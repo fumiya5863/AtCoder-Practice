@@ -14,3 +14,7 @@ AtCoderの過去問をPythonで解いた問題を上げていきます
 ```
 python *.py
 ```
+
+## フォルダ構成
+- AtCoder past problem/
+    - *.py AtCoderの過去問をPythonで解いた実行ファイル

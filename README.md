@@ -3,6 +3,7 @@ AtCoderのABCの過去問をPythonで解いた問題を上げていきます
 
 ## 説明
 ## 環境構成
+- windowsバージョン 1809
 - python 3.7.x以上
 
 ## 利用方法

@@ -1,5 +1,5 @@
 # AtCoder-Practice
-AtCoderのABC過去問をPythonで解いた問題を上げていきます
+AtCoderのABCの過去問をPythonで解いた問題を上げていきます
 
 ## 説明
 ## 環境構成

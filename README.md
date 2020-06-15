@@ -19,4 +19,5 @@ python *.py
 
 ## フォルダ構成
 - AtCoder past problem/
-    - *.py (AtCoderの過去問をPythonで解いた実行ファイル)
+    - AtCoderの過去問をPythonで解いた実行ファイルが格納されているフォルダがある
+        - *.py

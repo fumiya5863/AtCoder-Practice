@@ -17,7 +17,6 @@ python *.py
 ```
 
 ## フォルダ構成
-- AtCoder-Practice/
- - AtCoder past problem/
+- AtCoder-Practice/AtCoder past problem/
     - AtCoderの過去問をPythonで解いた実行ファイルが格納されているフォルダがある/
         - *.py

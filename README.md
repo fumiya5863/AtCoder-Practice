@@ -1,5 +1,5 @@
 # AtCoder-Practice
-** AtCoder-Practiceとは **
+**AtCoder-Practiceとは**
 AtCoderのABCの過去問をPythonで解いた問題を上げていきます
 
 ## 説明

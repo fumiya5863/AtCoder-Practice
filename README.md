@@ -15,7 +15,8 @@ AtCoderのABCの過去問をPythonで解いた問題を上げていきます
 
 ## 実行
 ```
-git clone 
+git clone https://github.com/fumiya5863/AtCoder-Practice.git
+cd AtCoder past problem
 python *.py
 ```
 

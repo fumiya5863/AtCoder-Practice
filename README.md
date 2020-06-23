@@ -24,3 +24,5 @@ python *.py
 - AtCoder-Practice/AtCoder past problem/
     - AtCoderの過去問をPythonで解いた実行ファイルが格納されているフォルダがある/
         - *.py
+## ライセンス
+AtCoder-Practiceは[fumiyan]
